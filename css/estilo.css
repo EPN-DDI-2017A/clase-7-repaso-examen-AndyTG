@@ -1,0 +1,43 @@
+.cabecera{
+    margin-top: 25px;
+}
+.feature{
+    margin-top: 100px;
+}
+.feature2{
+    margin-top: 150px;
+    max-height: 650px;
+}
+.doble{
+    margin-top: 250px;
+}
+.recortar{
+    clip:rect(0 683px 800px 0);
+}
+.services{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+.redondo{
+    width: 50px;
+    height: 50px;
+    background-color: black;
+    border-radius: 50%;
+    text-align: center;
+    margin-top: -2%;
+}
+.redondo span{
+    margin-top: 28%;
+    margin-left: 21%;
+}
+.carousel-indicators li{
+    max-width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+.card{
+    border: none;
+}
+.card i{
+    font-size: 200px;
+}
